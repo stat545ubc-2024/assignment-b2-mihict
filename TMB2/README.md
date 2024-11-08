@@ -17,8 +17,8 @@ You can install the development version of TMB2 from
 [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("pak")
-pak::pak("stat545ubc-2024/assignment-b2-mihict")
+# install.packages("devtools")
+devtools::install_github("stat545ubc-2024/assignment-b2-mihict/TMB2")
 ```
 
 ## Examples
@@ -42,10 +42,3 @@ print(result1)
 
 This project is licensed under the MIT License. See the LICENSE file for
 details.
-
-## Citation
-
-If you use TMB2 in your research, please cite the package as follows:
-
-TMB2: A Simple R Package for Minimum and Maximum Values. (Year).
-Author(s). Available at: <https://github.com/your-username/TMB2>
