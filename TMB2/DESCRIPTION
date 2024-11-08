@@ -1,0 +1,13 @@
+Package: TMB2
+Title: A Simple R Package for Minimum and Maximum Values 
+Version: 0.1.0
+Authors@R: 
+    person("Tamara", "Mihic", , "mihict@student.ubc.ca", role = c("aut", "cre"))
+Description: The goal of TMB2 is to provide a function `min_max` to easily find the minimum and maximum values in a numeric dataset. This function works with vectors, matrices, and data frames, making it a flexible tool for data analysis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
