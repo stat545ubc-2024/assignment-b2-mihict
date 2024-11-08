@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jH1Ixftw)
+# Introduction
+This project is Assignment B2 for Tamara Mihic in UBC Stat 545. 
+
+# Files in this repo
+
+```
+.
+├── README.md
+├── TMB2
+```
+
+There is a readme file which gives an overall review of this repository. 
+
+There is an R package called TMB2 which provides a function `min_max` to easily find the minimum and maximum values in a numeric dataset. 
+
